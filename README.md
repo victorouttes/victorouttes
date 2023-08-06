@@ -49,4 +49,5 @@ I'm a lifelong learner. I'm always looking for new technologies and best practic
 <a href="https://github.com/victorouttes/dataengineering_portfolio"><img alt="Website" src="https://img.shields.io/badge/Portfolio-some%20data%20demos-gold?style=flat-square&logo=google-chrome"></a>
 <a href="https://victorouttes.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-victorouttes.github.io-green?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/victorouttes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Victor%20Outtes-blue?style=flat-square&logo=linkedin"></a>
+<a href="http://lattes.cnpq.br/5203082526398229"><img alt="Lattes" src="https://img.shields.io/badge/Lattes-Victor%20Outtes-orange?style=flat-square&logo=google-chrome"></a>
 </p>
