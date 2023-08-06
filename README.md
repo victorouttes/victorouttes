@@ -1,5 +1,7 @@
 <h2> Hey there! I'm Victor!</h2>
 
+![](https://komarev.com/ghpvc/?username=victorouttes)
+
 My name is Victor and I'm passionate about technology and data.
 
 ## 🎓 Education
